@@ -11,10 +11,10 @@
 <br>
 
 <p align="center">
-  <a href="#"><img alt="React" src="https://img.shields.io/badge/-React-00E8FF?style=flat-square&logo=react&logoColor=white"></a>
-  <a href="#"><img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-008631?style=flat-square&logo=mongodb&logoColor=white"></a>
-  <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-E8E337?style=flat-square&logo=javascript&logoColor=black"></a>
-  <a href="#"><img alt="Python" src="https://img.shields.io/badge/-Python-1E2F97?style=flat-square&logo=python&logoColor=white"></a>
+  <a href="#"><img alt="React" src="https://img.shields.io/badge/-React-00E8FF?style=flat-square&logo=react&logoColor=white" height="30"></a>
+  <a href="#"><img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-008631?style=flat-square&logo=mongodb&logoColor=white" height="30"></a>
+  <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-E8E337?style=flat-square&logo=javascript&logoColor=black" height="30"></a>
+  <a href="#"><img alt="Python" src="https://img.shields.io/badge/-Python-1E2F97?style=flat-square&logo=python&logoColor=white" height="30"></a>
 </p>
 
 <br>
