@@ -11,10 +11,10 @@
 <br>
 
 <p align="center">
-  <span style="background-color: #00E8FF; color: white; padding: 2px 5px; border-radius: 5px;">REACT</span>
-  <span style="background-color: #008631; color: white; padding: 2px 5px; border-radius: 5px;">MONGODB</span>
-  <span style="background-color: #E8E337; color: white; padding: 2px 5px; border-radius: 5px;">JAVASCRIPT</span>
-  <span style="background-color: #1E2F97; color: white; padding: 2px 5px; border-radius: 5px;">PYTHON</span>
+  <a href="#"><img alt="React" src="https://img.shields.io/badge/-React-00E8FF?style=flat-square&logo=react&logoColor=white"></a>
+  <a href="#"><img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-008631?style=flat-square&logo=mongodb&logoColor=white"></a>
+  <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-E8E337?style=flat-square&logo=javascript&logoColor=black"></a>
+  <a href="#"><img alt="Python" src="https://img.shields.io/badge/-Python-1E2F97?style=flat-square&logo=python&logoColor=white"></a>
 </p>
 
 <br>
